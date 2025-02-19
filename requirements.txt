@@ -1,6 +1,5 @@
 streamlit
-spacy
-presidio-analyzer
-presidio-anonymizer
-faker
-pdfplumber
+pandas
+sqlite3
+bcrypt
+plotly
