@@ -1,0 +1,6 @@
+streamlit
+spacy
+presidio-analyzer
+presidio-anonymizer
+faker
+pdfplumber
